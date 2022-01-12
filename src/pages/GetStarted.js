@@ -1,9 +1,9 @@
 import './App.css';
 
-const App = () => {
+const GetStarted = () => {
   return (
     <div className="App">
-      hello
+      
     </div>
   );
 }
